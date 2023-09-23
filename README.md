@@ -1,8 +1,10 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&text=Jeongho's%20Github)
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho0715&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho0715&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  |[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho0715&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho0715&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+  | ------------- | ------------- |
   <br/>
 
   ## Language
